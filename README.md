@@ -1,2 +1,2 @@
-### 30-days-of-code
-Learning not only how to write code but also on how to think like a Software Engineer
+### 30 days of code - Log
+* Day 0: Thursday 23rd May 2019
