@@ -6,4 +6,4 @@
 **Thoughts**: I find myself pushing what I did on my day 0 on day 1 instead because of some connection issues I experienced. I wish this doesn't happen frequently.
 
 **Link to work**:
-* [Basic todo](https://github.com/debenick17/Angular-Projects/tree/master/todo)
+* [Basic todo](https://github.com/debenick17/Angular-Projects/commit/e9c9ef5777d5496e0f47880ae0bea92ff41df20e)
