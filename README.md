@@ -16,3 +16,16 @@
 
 **Link to work**: 
 * [Cash Register](https://github.com/debenick17/freeCodeCamp/commit/7fef7448eb1230d4ad52519d77a60b902ec208c7)
+
+### Day 2: Monday 27th May 2019
+
+**Today's Progress**:  I read chapters 2 and 3 of the Angular Pro book. I also solved some javascript exercises, summing in a range, diff two array and a seek-and-destroy function.
+
+**Thoughts**: Maybe someday the programming language you know won't matter any longer. Maybe some technology will come up that will convert java code to javascript or to python or whichever language of your choice. He! he! he! I am just pondering like my point says "**thoughts**", lol.
+
+**Link to work**:
+* [Chapter 2](NA)
+* [Chapter 3](NA)
+* [sum in range](https://github.com/debenick17/freeCodeCamp/commit/e01d4bd9b2c095b32341100f949bedd7339b6024)
+* [diff two array](https://github.com/debenick17/freeCodeCamp/commit/ff1ecc281a45952d9a21aaccae50310193d002dd)
+* [seek-and-destroy](https://github.com/debenick17/freeCodeCamp/blob/master/Javascript_exercises/seek_and_destroy.js)
