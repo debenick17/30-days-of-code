@@ -37,11 +37,11 @@
 **Thoughts**: SOlving challenges could be helpful for me since it helps learn how to aproach a problem. 
 
 **Link to work**:
-*[sorted Union](https://github.com/debenick17/freeCodeCamp/commit/a8b69f77a647f46edc86d3984c29aad3f38e24fb)
-*[Spinal Case](https://github.com/debenick17/freeCodeCamp/commit/3bfbe2c880a88d337ca8140695b1e88023807745)
-*[Stream Roller](https://github.com/debenick17/freeCodeCamp/commit/8ff20917abdf1cc26baeb80d7dc476ca2cb2d419)
-*[sum Odd Fibonacci](https://github.com/debenick17/freeCodeCamp/commit/4e94a0d1c44ae6f966c9a5654e62066a2f1c83f9)
-*[Sum All Primes](https://github.com/debenick17/freeCodeCamp/commit/97f930ff0ce7ba8a563b9d18e07d06a88c1fb75e)
+* [sorted Union](https://github.com/debenick17/freeCodeCamp/commit/a8b69f77a647f46edc86d3984c29aad3f38e24fb)
+* [Spinal Case](https://github.com/debenick17/freeCodeCamp/commit/3bfbe2c880a88d337ca8140695b1e88023807745)
+* [Stream Roller](https://github.com/debenick17/freeCodeCamp/commit/8ff20917abdf1cc26baeb80d7dc476ca2cb2d419)
+* [sum Odd Fibonacci](https://github.com/debenick17/freeCodeCamp/commit/4e94a0d1c44ae6f966c9a5654e62066a2f1c83f9)
+* [Sum All Primes](https://github.com/debenick17/freeCodeCamp/commit/97f930ff0ce7ba8a563b9d18e07d06a88c1fb75e)
 
 ### Day 4: Wednesday 29th May 2019
 
@@ -50,10 +50,10 @@
 **Thoughts**: Solving challenges could be helpful for me since it helps learn how to aproach a problem. 
 
 **Link to work**:
-*[Small Common Multiple](https://github.com/debenick17/freeCodeCamp/commit/7957a3d089fdbf1c8719d44459cbf5eee6679f02)
-*[Missing Letters](https://github.com/debenick17/freeCodeCamp/commit/3fba3df302215167ce43a9b086ee3b1dae0fe57e)
-*[Map the Debris](https://github.com/debenick17/freeCodeCamp/commit/30df01eb1d979e89121f13a7dbbf2e137b2555fd)
-*[make A Person](https://github.com/debenick17/freeCodeCamp/commit/5fb8866ba8040b44fd16fd49531618e716747961)
+* [Small Common Multiple](https://github.com/debenick17/freeCodeCamp/commit/7957a3d089fdbf1c8719d44459cbf5eee6679f02)
+* [Missing Letters](https://github.com/debenick17/freeCodeCamp/commit/3fba3df302215167ce43a9b086ee3b1dae0fe57e)
+* [Map the Debris](https://github.com/debenick17/freeCodeCamp/commit/30df01eb1d979e89121f13a7dbbf2e137b2555fd)
+* [make A Person](https://github.com/debenick17/freeCodeCamp/commit/5fb8866ba8040b44fd16fd49531618e716747961)
 
 ### Day 4: Thursday 30th May 2019
 
@@ -62,9 +62,9 @@
 **Thoughts**: Solving challenges could be helpful for me since it helps learn how to aproach a problem. 
 
 **Link to work**:
-*[Drop it](https://github.com/debenick17/freeCodeCamp/commit/7a3a6dc60cb86bb65c2cac7659c6c7d6732e0f81)
-*[DNA Pairing](https://github.com/debenick17/freeCodeCamp/commit/b4ea1cd1f42ea91a1a4a19c1b3064cb0d500976e)
-*[convert HTML Entities](https://github.com/debenick17/freeCodeCamp/commit/bcfba8fdb8a6b43db9c3317d6aaae42b8a9de37c)
-*[binary Agent](https://github.com/debenick17/freeCodeCamp/commit/ca0930f7d982f1f9d2b4a43c27b0bde02e2d797e)
-*[argument Optional](https://github.com/debenick17/freeCodeCamp/commit/e798436f6043e896492f7bf3aef57b9311f06514)
+* [Drop it](https://github.com/debenick17/freeCodeCamp/commit/7a3a6dc60cb86bb65c2cac7659c6c7d6732e0f81)
+* [DNA Pairing](https://github.com/debenick17/freeCodeCamp/commit/b4ea1cd1f42ea91a1a4a19c1b3064cb0d500976e)
+* [convert HTML Entities](https://github.com/debenick17/freeCodeCamp/commit/bcfba8fdb8a6b43db9c3317d6aaae42b8a9de37c)
+* [binary Agent](https://github.com/debenick17/freeCodeCamp/commit/ca0930f7d982f1f9d2b4a43c27b0bde02e2d797e)
+* [argument Optional](https://github.com/debenick17/freeCodeCamp/commit/e798436f6043e896492f7bf3aef57b9311f06514)
 
